@@ -1,2 +1,2 @@
-# morse
-Morse code: Encrypt and Decrypt
+# Morse Coder
+Morse code: Encrypt and Decrypt morse code. 
